@@ -4,19 +4,19 @@
 
 A Gridsome plugin built on top of [Vue-toasted](https://www.npmjs.com/package/vue-toasted), one of the best toast plugin available for VueJS.
 
-Now you can also use it in Gridsome! 💥💥
+**Now you can also use it in Gridsome!** 💥💥
 
 ## Introduction
 
 [Vue-toasted](https://www.npmjs.com/package/vue-toasted) is a cool Toast plugin for any Vue-related project, and this plugin enhances the possibility of using it in Gridsome project 💯. 
 
-🔥 There are icons built-in supported such as [FontAwesome](Material Design Icons), [Material Icons](http://google.github.io/material-design-icons/) etc.
+🔥 There are icons built-in supported such as [FontAwesome](https://fontawesome.com/), [Material Icons](http://google.github.io/material-design-icons/) etc.
 
 🔥 And it's responsive too!
 
 ### Demo
 
-Check out the official [demo](https://shakee93.github.io/vue-toasted/)
+Check out the official [demo](https://shakee93.github.io/vue-toasted/).
 
 ![interactive demo of vue toasted](https://res.cloudinary.com/mayashavin/image/upload/v1590047023/vue-toasted-demo.gif)
 
