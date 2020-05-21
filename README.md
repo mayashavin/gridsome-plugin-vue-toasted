@@ -57,7 +57,7 @@ _Example_: To set up toast displayed from bottom center of the page `position: '
 module.exports = [
     //... - other plugins
     {
-        use: '',
+        use: 'gridsome-plugin-vue-toasted',
         options:  {
             position: 'bottom-center',
             singleton: true,
