@@ -1,6 +1,6 @@
 {
   "name": "gridsome-plugin-vue-toasted",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gridsome plugin for Vue-toasted",
   "main": "gridsome.client.js",
   "repository": {
